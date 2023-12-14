@@ -1,7 +1,7 @@
 # IP address tracker
 
 [Design preview for the IP address tracker coding challenge]
-![preview](./design/desktop-design.jpg)
+![preview](design/desktop-design.jpg)
 [Deployment](https://ip-ad-track.vercel.app/)
 
 ## Welcome! 👋
