@@ -1,7 +1,7 @@
 # IP address tracker
 
-[Design preview for the IP address tracker coding challenge]
-![preview](design/desktop-design.jpg)
+Design preview for the IP address tracker coding challenge
+
 [Deployment](https://ip-ad-track.vercel.app/)
 
 ## Welcome! 👋
@@ -18,3 +18,7 @@ Your users should be able to:
 - Search for any IP addresses or domains and see the key information and location
 
 **Have fun tracking!** 🚀
+
+### Preview
+![desktop-design](https://github.com/Krishnanshu-Khanna/ip-ad-track/assets/121768209/0238b1ef-783b-4126-b82b-cbc9eb04f39f)
+#
