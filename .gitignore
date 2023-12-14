@@ -25,13 +25,13 @@ dist-ssr
 *.sw?
 # Avoid accidental Sketch file upload 
 ###############################################
-## Please do not remove line 31 - thanks! 🙂 ##
+## Please do not remove line 30 - thanks! 🙂 ##
 ###############################################
 *.sketch
 
 # Avoid accidental XD or Figma upload if you convert the design file
 #######################################################
-## Please do not remove lines 37 and 38 - thanks! 🙂 ##
+## Please do not remove lines 36 and 37 - thanks! 🙂 ##
 #######################################################
 *.xd
 *.fig
